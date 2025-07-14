@@ -1,6 +1,10 @@
 ---
-layout: about
-title: About me
+permalink: /
+title: "Kay's academic page "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I’m a full-stack .NET software developer with a strong focus on backend systems and modern frontend development using Angular. I specialize in building scalable and secure web applications using .NET Core, C#, and TypeScript, often integrated with Auth0 for authentication and deployed in cloud environments like Azure and AWS.
