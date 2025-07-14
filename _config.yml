@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Keqing(Kay) Li / Software Developer"
+title                    : "Kay / Software Developer"
 title_separator          : "-"
 name                     : &name "Keqing(Kay) Li"
 description              : &description "Full-stack .NET developer with experience in Angular, React, Auth0, and cloud platforms. Passionate about building scalable, secure web applications and delivering clean, maintainable code."
