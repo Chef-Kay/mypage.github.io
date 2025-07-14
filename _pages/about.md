@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kay's academic page "
+title: "Full-Stack .NET Developer with Cloud and Frontend Experience"
 author_profile: true
 redirect_from: 
   - /about/
