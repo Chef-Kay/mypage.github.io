@@ -9,56 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Kay L. - Curriculum Vitae
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🧠 Skills
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Languages & Frameworks:**  
+- C#, .NET Core, Entity Framework Core  
+- Angular, TypeScript, JavaScript, React  
+- Python, Java, C++, SQL, HTML, CSS
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Tools & Platforms:**  
+- Azure, AWS, Git, FluentValidation, Auth0, REST APIs  
+- WordPress (custom themes & plugins)  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Areas of Expertise:**  
+- Full-stack web application development  
+- Cloud deployment & DevOps collaboration  
+- Authentication & access control (Auth0)  
+- Microservice architecture, SaaS design patterns  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+Studied:  
+- Data Structures & Operating Systems (C++)  
+- Machine Learning & AI (Python)  
+- Big Data & Distributed Systems (Java)  
+- Web & Database Computing (HTML, CSS, JS, SQL)  
+
+---
+
+## 💼 Work Experience
+
+**Software Developer**  
+*E-commerce Startup & Financial Sector*  
+- Built scalable .NET backend systems with Angular/React frontends  
+- Integrated Auth0 authentication in production systems  
+- Deployed services on Azure & AWS  
+- Customized WordPress solutions for client-facing websites  
+- Collaborated with cross-functional teams to deliver production-ready features
+
+**.NET Developer Intern / Software Engineer**  
+- Assisted in the design of RESTful APIs  
+- Implemented configuration and validation systems  
+- Participated in Agile development workflows  
+
+---
+
+## 📄 Resume Download
+
+📥 [Download Resume (PDF)](../assets/KayResume.pdf)
+
+---
+
+*Updated: {{ site.time | date: "2025/07/15" }}*
+
