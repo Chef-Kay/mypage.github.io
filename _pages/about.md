@@ -34,4 +34,5 @@ While I have experience with Python-based networking applications (e.g., basic c
 - SaaS product development and monetization models  
 - Continuous learning and open-source collaboration
 
+📄 [View my resume (PDF)](../assets/KayResume.pdf)  
 Feel free to [connect with me](likeqinglkq@outlook.com) or explore my [GitHub projects](https://github.com/Chef-Kay).
